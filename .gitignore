@@ -3,3 +3,6 @@ a
 
 # vscode
 .vscode/
+
+# for test code
+temp.cpp
